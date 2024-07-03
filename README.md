@@ -1,15 +1,15 @@
 # GitHub ECS Runner Controller
 
-Dieses Projekt ist ein Python-Skript, das als Controller fungiert, um die GitHub Runner in AWS ECS zu verwalten.
+This project is a Python script designed to act as a controller for managing GitHub runners in AWS ECS. The project is currently under development.
 
-## Voraussetzungen
+## Prerequisites
 
-- Python 3.11
-- AWS Konto
-- GitHub Konto und API Token
+- Python 3.9 or higher
+- AWS account
+- GitHub account with API token
 
 ## Installation
 
-1. Klone das Repository:
+1. Clone the repository:
    ```sh
-   git clone https://github.com/dein-repo/github-ecs-runner-controller.git
+   git clone https://github.com/andredni/github-ecs-runner-controller.git
